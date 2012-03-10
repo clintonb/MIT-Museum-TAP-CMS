@@ -1,0 +1,6 @@
+name = "TAP"
+description = "Main module for the TAP project."
+package = "TAP"
+version = "1.x"
+core = "7.x"
+dependencies[] = "tap_features"

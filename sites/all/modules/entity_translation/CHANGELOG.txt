@@ -1,0 +1,47 @@
+
+Entity translation 7.x-1.x, xxxx-xx-xx
+--------------------------------------
+
+
+Entity translation 7.x-1.0-alpha1, 2011-09-07
+---------------------------------------------
+#1045196 by plach: Fixed Image field translation broken.
+#1003876 by plach: (follow-up) Fixed labels not replaced by Title.
+#944874 by das-peter, plach: Added basic tests for the translation creation and
+  editing workflow.
+#1031370 by joostvdl | rfay: Fixed Translation publishing status is hidden under
+  collapsed 'publishing options' fieldset (and is hidden by default).
+#1003876 by plach, good_man: (follow-up) Fixed original label translation. 
+#1003876 by good_man, plach: Introduced support for translated entity labels.
+#936646 by good_man, fietserwin, plach, klonos: Fixed Undefined index access
+  callback/arguments in entity_translation_menu().
+#1109198 by plach, Countzero: Fixed Node translation overview page broken if
+  i18n is enabled.
+#1098106 by pcambra, jelenex: Fixed Translated fields aren't validated (or
+  processed with presave and submit field_attach_() hooks).
+#1111686 by plach: Fixed API documentation wrong.
+#1095390 by plach, klonos, sun: Changed Do not capitalize first letters in
+  project's name.
+#1032846 by plach, sun, das-peter: Removed read-ony non translatable fields from
+  the translation form.
+#1082112 by fietserwin | mattwad: Fixed No argument passed to
+  _translation_tab_access()
+#1081444 by jelenex: Fixed Unable to create non-published node.
+#1083704 by jelenex: Fixed Unable to edit node when user has only the 'translate
+  node entities' permission.
+#1096008 by fietserwin, sun: Fixed URL alias not updated.
+#1060334 by plach: Completed the transition from Translation 2.
+#902760 by sun: Changed module name from translation to entity_translation.
+#1032602 by rfay: Fixed bogus 'base path' docs in hook_translation_info().
+#1032816 by das-peter: Removed superfluous method getHumanReadableId().
+#1032728 by das-peter, rfay, sun: Fixed entity info cache not cleared after
+  changing module settings.
+#1021434 by plach | sun, OnkelTem: Fixed `translation` table is not created on
+  upgrading from core translation.
+#1003320 by good_man | Berdir, pcambra, plach, sun: Fixed The etid insane field.
+#1009546 by good_man: Fixed form buttons not wrapped in #type actions.
+#990120 by das-peter: Changed view mode from 'full' to 'default' in edit form.
+#929444 by das-peter, plach, sun: Fixed coding standards.
+#920826 by das-peter, sun: Fixed various issues after initial merge.
+#673300 by plach, sun: Added initial Translatable Fields UI code.
+by sun: Added initial baseline of module files.
