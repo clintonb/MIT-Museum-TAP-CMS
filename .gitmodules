@@ -1,0 +1,48 @@
+[submodule "sites/all/modules/date"]
+	path = sites/all/modules/date
+	url = http://git.drupal.org/project/date.git
+[submodule "sites/all/modules/ctools"]
+	path = sites/all/modules/ctools
+	url = http://git.drupal.org/project/ctools.git
+[submodule "sites/all/modules/features"]
+	path = sites/all/modules/features
+	url = http://git.drupal.org/project/features.git
+[submodule "sites/all/modules/media"]
+	path = sites/all/modules/media
+	url = http://git.drupal.org/project/media.git
+[submodule "sites/all/modules/media_youtube"]
+	path = sites/all/modules/media_youtube
+	url = http://git.drupal.org/project/media_youtube.git
+[submodule "sites/all/modules/token"]
+	path = sites/all/modules/token
+	url = http://git.drupal.org/project/token.git
+[submodule "sites/all/modules/transliteration"]
+	path = sites/all/modules/transliteration
+	url = http://git.drupal.org/project/transliteration.git
+[submodule "sites/all/modules/entity"]
+	path = sites/all/modules/entity
+	url = http://git.drupal.org/project/entity.git
+[submodule "sites/all/modules/file_entity"]
+	path = sites/all/modules/file_entity
+	url = http://git.drupal.org/project/file_entity.git
+[submodule "sites/all/modules/entityreference"]
+	path = sites/all/modules/entityreference
+	url = http://git.drupal.org/project/entityreference.git
+[submodule "sites/all/modules/entity_translation"]
+	path = sites/all/modules/entity_translation
+	url = http://git.drupal.org/project/entity_translation.git
+[submodule "sites/all/modules/jplayer"]
+	path = sites/all/modules/jplayer
+	url = http://git.drupal.org/project/jplayer.git
+[submodule "sites/all/modules/title"]
+	path = sites/all/modules/title
+	url = http://git.drupal.org/project/title.git
+[submodule "sites/all/modules/views"]
+	path = sites/all/modules/views
+	url = http://git.drupal.org/project/views.git
+[submodule "sites/all/modules/media_flickr"]
+	path = sites/all/modules/media_flickr
+	url = http://git.drupal.org/project/media_flickr.git
+[submodule "sites/all/modules/styles"]
+	path = sites/all/modules/styles
+	url = http://git.drupal.org/project/styles.git
